@@ -6,23 +6,16 @@ Welcome to the Synthetic Medical Imaging Repository – a comprehensive resource
 
 In this repository, you will find an extensive collection of significant literature and valuable GitHub repositories focused on synthetic medical imaging. Whether you are a seasoned researcher or a newcomer to the field, this resource is designed to provide you with a thorough understanding of current trends, methodologies, and breakthroughs in synthetic medical imaging.
 
-## What You'll Find Here
-
-In this repository, we explore various facets of synthetic medical imaging, organized into the following key categories:
-
-- **Introduction to Medical Imaging and Synthetic Data:** This section provides an essential overview of medical imaging technologies and the significance of synthetic data in this field. It's designed to give beginners a comprehensive starting point for understanding the fundamentals of medical imaging and the applications of synthetic data.
-
-- **Surveys:** Discover in-depth surveys and reviews offering a wide-ranging view of the state of the art in synthetic medical imaging. These resources are crucial for understanding the field's current trends, challenges, and potential future developments.
-
-- **Model Comparison:** A focused look at different models used in synthetic medical imaging. This section compares the strengths, weaknesses, and specific use cases of various modeling approaches, helping users understand which models are best suited for different types of medical imaging tasks.
-
-- **Subdivisions by Model Types:** 
-  - **Generative Adversarial Networks (GANs):** Explore resources related to GANs and how they are used in creating realistic synthetic medical images.
-  - **Diffusion Models:** Learn about diffusion models and their unique ability to generate high-quality medical images.
-  - **Autoregressive Models:** Delve into autoregressive models and their applications in synthetic medical imaging, offering insights into their effectiveness and use cases.
-
 Each category in this repository is meticulously curated, guiding you through the extensive field of synthetic medical imaging, from foundational concepts to the nuances of advanced modeling techniques.
 
+## Foundational Concepts and Theoretical Background
+[**Foundational Models in Medical Imaging: A Comprehensive Survey and Future Vision**](https://arxiv.org/abs/2310.18689)  
+Bobby Azad, Reza Azad, Sania Eskandari, Afshin Bozorgpour, Amirhossein Kazerouni, Islem Rekik, Dorit Merhof  
+*arXiv:2310.18689*
+
+## Model comparison and Use cases
+## Dataset Resources and Preprocessing\Training Techniques
+## Implementation Guides and Tutorials
 
 ## Contributing
 
