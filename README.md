@@ -8,13 +8,21 @@ In this repository, you will find an extensive collection of significant literat
 
 ## What You'll Find Here
 
-- **Curated Literature:** Access a carefully selected compilation of research papers, articles, and publications that are pivotal in the field of synthetic medical imaging.
-- **GitHub Repositories:** Explore a range of GitHub repositories that offer practical tools, codebases, and implementations related to synthetic image generation in medical contexts.
-- **Community Contributions:** Contributions from the community are welcome! If you have a resource that you believe would be beneficial to this repository, please feel free to suggest it.
+In this repository, we explore various facets of synthetic medical imaging, organized into the following key categories:
 
-## Objective
+- **Introduction to Medical Imaging and Synthetic Data:** This section provides an essential overview of medical imaging technologies and the significance of synthetic data in this field. It's designed to give beginners a comprehensive starting point for understanding the fundamentals of medical imaging and the applications of synthetic data.
 
-The primary objective of this repository is to facilitate knowledge sharing and collaboration within the synthetic medical imaging community. By consolidating high-quality resources, we aim to accelerate innovation and support the advancement of this dynamic field.
+- **Surveys:** Discover in-depth surveys and reviews offering a wide-ranging view of the state of the art in synthetic medical imaging. These resources are crucial for understanding the field's current trends, challenges, and potential future developments.
+
+- **Model Comparison:** A focused look at different models used in synthetic medical imaging. This section compares the strengths, weaknesses, and specific use cases of various modeling approaches, helping users understand which models are best suited for different types of medical imaging tasks.
+
+- **Subdivisions by Model Types:** 
+  - **Generative Adversarial Networks (GANs):** Explore resources related to GANs and how they are used in creating realistic synthetic medical images.
+  - **Diffusion Models:** Learn about diffusion models and their unique ability to generate high-quality medical images.
+  - **Autoregressive Models:** Delve into autoregressive models and their applications in synthetic medical imaging, offering insights into their effectiveness and use cases.
+
+Each category in this repository is meticulously curated, guiding you through the extensive field of synthetic medical imaging, from foundational concepts to the nuances of advanced modeling techniques.
+
 
 ## Contributing
 
