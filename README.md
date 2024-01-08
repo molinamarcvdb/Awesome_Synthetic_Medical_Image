@@ -11,7 +11,7 @@ Each category in this repository is meticulously curated, guiding you through th
 ## Foundational Concepts and Theoretical Background
 [**Foundational Models in Medical Imaging: A Comprehensive Survey and Future Vision**](https://arxiv.org/abs/2310.18689)  
 Bobby Azad, Reza Azad, Sania Eskandari, Afshin Bozorgpour, Amirhossein Kazerouni, Islem Rekik, Dorit Merhof  
-*arXiv:2310.18689*
+
 
 ## Model comparison and Use cases
 ## Dataset Resources and Preprocessing\Training Techniques
