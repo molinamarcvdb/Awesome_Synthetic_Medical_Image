@@ -9,11 +9,19 @@ In this repository, you will find an extensive collection of significant literat
 Each category in this repository is meticulously curated, guiding you through the extensive field of synthetic medical imaging, from foundational concepts to the nuances of advanced modeling techniques.
 
 ## Foundational Concepts and Theoretical Background
-[**Foundational Models in Medical Imaging: A Comprehensive Survey and Future Vision**](https://arxiv.org/abs/2310.18689)  
+1. [**Foundational Models in Medical Imaging: A Comprehensive Survey and Future Vision**](https://arxiv.org/abs/2310.18689)  
 Bobby Azad, Reza Azad, Sania Eskandari, Afshin Bozorgpour, Amirhossein Kazerouni, Islem Rekik, Dorit Merhof  
+2. [**Hierarchical Amortized GAN for 3D High Resolution Medical Image Synthesis**](https://ieeexplore.ieee.org/abstract/document/9770375)  
+   Li Sun, Junxiang Chen, Yanwu Xu, Mingming Gong, Ke Yu, Kayhan Batmanghelich  
+   *IEEE Journal of Biomedical and Health Informatics, Volume: 26, Issue: 8*  
+   Publisher: IEEE [**GitHub**](https://github.com/batmanlab/HA-GAN/tree/master)
 
-
-## Model comparison and Use cases
+## Models and Use cases
+### GANs
+### Diffusion Models
+### Autorregresive Transformer
+### Other
+### Comparison table
 ## Dataset Resources and Preprocessing\Training Techniques
 ## Implementation Guides and Tutorials
 
