@@ -30,6 +30,7 @@ Firas Khader, Gustav Mueller-Franzes, Soroosh Tayebi Arasteh, Tianyu Han, Christ
 1. [**Diffusion Probabilistic Models beat GANs on Medical Images**](https://arxiv.org/abs/2212.07501) Gustav Müller-Franzes, Jan Moritz Niehues, Firas Khader, Soroosh Tayebi Arasteh, Christoph Haarburger, Christiane Kuhl, Tianci Wang, Tianyu Han, Sven Nebelung, Jakob Nikolas Kather, Daniel Truhn [14th Dec., 2022] [arXiv, 2022]
 ## Apllications
 ### Privacy
+1. [**Beware of Diffusion Models for Synthesizing Medical Images -- A Comparison with GANs in Terms of Memorizing Brain MRI and Chest X-Ray Images.**](https://arxiv.org/abs/2305.07644) Muhammad Usman Akbar, Wuhao Wang, Anders Eklund (2023).
 
 ### Data augemntation
 ## Dataset Resources and Preprocessing\Training Techniques
