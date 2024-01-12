@@ -33,7 +33,8 @@ Firas Khader, Gustav Mueller-Franzes, Soroosh Tayebi Arasteh, Tianyu Han, Christ
 ## Apllications
 ### Privacy
 1. [**Beware of Diffusion Models for Synthesizing Medical Images -- A Comparison with GANs in Terms of Memorizing Brain MRI and Chest X-Ray Images.**](https://arxiv.org/abs/2305.07644) Muhammad Usman Akbar, Wuhao Wang, Anders Eklund (2023).
-2. [**Conversion of the Mayo LDCT Data to Synthetic Equivalent through the Diffusion Model for Training Denoising Networks with a Theoretically Perfect Privacy.**](https://arxiv.org/abs/2301.06604) Yongyi Shi, Ge Wang (2023).
+2. [**Investigating Data Memorization in 3D Latent Diffusion Models for Medical Image Synthesis.**](https://arxiv.org/abs/2307.01148) Salman Ul Hassan Dar, Arman Ghanaat, Jannik Kahmann, Isabelle Ayx, Theano Papavassiliu, Stefan O. Schoenberg, Sandy Engelhardt (2023).
+3. [**Conversion of the Mayo LDCT Data to Synthetic Equivalent through the Diffusion Model for Training Denoising Networks with a Theoretically Perfect Privacy.**](https://arxiv.org/abs/2301.06604) Yongyi Shi, Ge Wang (2023).
 
 
 ### Data augemntation
