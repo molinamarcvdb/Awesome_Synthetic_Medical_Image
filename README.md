@@ -10,11 +10,11 @@ Each category in this repository is meticulously curated, guiding you through th
 
 ## Foundational Concepts and Theoretical Background
 1. [**Foundational Models in Medical Imaging: A Comprehensive Survey and Future Vision**](https://arxiv.org/abs/2310.18689)  Bobby Azad, Reza Azad, Sania Eskandari, Afshin Bozorgpour, Amirhossein Kazerouni, Islem Rekik, Dorit Merhof (2023)
-2. [**A Comprehensive Survey of Deep Learning Research on Medical Image Analysis with Focus on Transfer Learning.**](https://example-link-to-paper.com) SEMA ATASEVER, NUH AZGINOGLU, DUYGU SINANC TERZI, RAMAZAN TERZI (2022).
+2. [**A Comprehensive Survey of Deep Learning Research on Medical Image Analysis with Focus on Transfer Learning.**]([https://example-link-to-paper.com](https://www.sciencedirect.com/science/article/abs/pii/S0899707122002856)) SEMA ATASEVER, NUH AZGINOGLU, DUYGU SINANC TERZI, RAMAZAN TERZI (2022).
 
 
 
-## Models and Use cases
+## Models
 ### GANs
 1. [**Hierarchical Amortized GAN for 3D High Resolution Medical Image Synthesis**](https://ieeexplore.ieee.org/abstract/document/9770375) Li Sun, Junxiang Chen, Yanwu Xu, Mingming Gong, Ke Yu, Kayhan Batmanghelich *IEEE Journal of Biomedical and Health Informatics, Volume: 26, Issue: 8*  Publisher: IEEE [[**GitHub**]](https://github.com/batmanlab/HA-GAN/tree/master)
 2. [**GANs for Medical Image Synthesis: An Empirical Study.**](https://www.mdpi.com/2313-433X/9/3/69)
@@ -28,7 +28,10 @@ Each category in this repository is meticulously curated, guiding you through th
 Firas Khader, Gustav Mueller-Franzes, Soroosh Tayebi Arasteh, Tianyu Han, Christoph Haarburger, Maximilian Schulze-Hagen, Philipp Schad, Sandy Engelhardt, Bettina Baessler, Sebastian Foersch, Johannes Stegmaier, Christiane Kuhl, Sven Nebelung, Jakob Nikolas Kather, Daniel Truhn (2022). [Github](https://github.com/FirasGit/medicaldiffusion)
 ### Comparisons
 1. [**Diffusion Probabilistic Models beat GANs on Medical Images**](https://arxiv.org/abs/2212.07501) Gustav Müller-Franzes, Jan Moritz Niehues, Firas Khader, Soroosh Tayebi Arasteh, Christoph Haarburger, Christiane Kuhl, Tianci Wang, Tianyu Han, Sven Nebelung, Jakob Nikolas Kather, Daniel Truhn [14th Dec., 2022] [arXiv, 2022]
-   
+## Apllications
+### Privacy
+
+### Data augemntation
 ## Dataset Resources and Preprocessing\Training Techniques
 ## Implementation Guides and Tutorials
 
