@@ -21,7 +21,9 @@ Bobby Azad, Reza Azad, Sania Eskandari, Afshin Bozorgpour, Amirhossein Kazerouni
 2. [**GANs for Medical Image Synthesis: An Empirical Study.**](https://www.mdpi.com/2313-433X/9/3/69) Skandarani, Y., Jodoin, P.-M., & Lalande, A. (2023). *J. Imaging*, 9(3), 69. University of Bourgogne Franche-Comte, University of Sherbrooke, University Hospital of Dijon.
 3. [**Medical Image Synthesis for Data Augmentation and Anonymization using Generative Adversarial Networks.**](https://arxiv.org/abs/1807.10225)
    Shin, H.-C., Tenenholtz, N. A., Rogers, J. K., Schwarz, C. G., Senjem, M. L., Gunter, J. L., Andriole, K., & Michalski, M. (2018). *arXiv:1807.10225*.
-
+### Diffusion Models
+1. [**Diffusion Models in Medical Imaging: A Comprehensive Survey.**](https://www.sciencedirect.com/science/article/abs/pii/S1361841523001068)
+   Kazerouni, A., Aghdam, E. K., Heidari, M., Azad, R., Fayyaz, M., Hacihaliloglu, I., & Merhof, D. (2023).
 
 ### Diffusion Models
 ### Autorregresive Transformer
