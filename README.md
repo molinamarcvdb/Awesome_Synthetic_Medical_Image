@@ -14,10 +14,7 @@ Bobby Azad, Reza Azad, Sania Eskandari, Afshin Bozorgpour, Amirhossein Kazerouni
 
 ## Models and Use cases
 ### GANs
-1. [**Hierarchical Amortized GAN for 3D High Resolution Medical Image Synthesis**](https://ieeexplore.ieee.org/abstract/document/9770375)  
-   Li Sun, Junxiang Chen, Yanwu Xu, Mingming Gong, Ke Yu, Kayhan Batmanghelich  
-   *IEEE Journal of Biomedical and Health Informatics, Volume: 26, Issue: 8*  
-   Publisher: IEEE [[**GitHub**]](https://github.com/batmanlab/HA-GAN/tree/master)
+1. [**Hierarchical Amortized GAN for 3D High Resolution Medical Image Synthesis**](https://ieeexplore.ieee.org/abstract/document/9770375) Li Sun, Junxiang Chen, Yanwu Xu, Mingming Gong, Ke Yu, Kayhan Batmanghelich *IEEE Journal of Biomedical and Health Informatics, Volume: 26, Issue: 8*  Publisher: IEEE [[**GitHub**]](https://github.com/batmanlab/HA-GAN/tree/master)
 2. [**GANs for Medical Image Synthesis: An Empirical Study.**](https://www.mdpi.com/2313-433X/9/3/69)
    Skandarani, Y., Jodoin, P.-M., & Lalande, A. (2023). *J. Imaging*, 9(3), 69. University of Bourgogne Franche-Comte, University of Sherbrooke, University Hospital of Dijon.
 4. [**Medical Image Synthesis for Data Augmentation and Anonymization using Generative Adversarial Networks.**](https://arxiv.org/abs/1807.10225)
