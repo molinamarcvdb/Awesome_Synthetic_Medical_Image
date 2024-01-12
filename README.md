@@ -24,11 +24,9 @@ Each category in this repository is meticulously curated, guiding you through th
 ### Diffusion Models
 1. [**Diffusion Models in Medical Imaging: A Comprehensive Survey.**](https://www.sciencedirect.com/science/article/abs/pii/S1361841523001068)
    Kazerouni, A., Aghdam, E. K., Heidari, M., Azad, R., Fayyaz, M., Hacihaliloglu, I., & Merhof, D. (2023).
-
-### Diffusion Models
-### Autorregresive Transformer
-### Other
-### Comparison table
+### Comparisons
+1. [**Diffusion Probabilistic Models beat GANs on Medical Images**](https://arxiv.org/abs/2212.07501) Gustav Müller-Franzes, Jan Moritz Niehues, Firas Khader, Soroosh Tayebi Arasteh, Christoph Haarburger, Christiane Kuhl, Tianci Wang, Tianyu Han, Sven Nebelung, Jakob Nikolas Kather, Daniel Truhn [14th Dec., 2022] [arXiv, 2022]
+   
 ## Dataset Resources and Preprocessing\Training Techniques
 ## Implementation Guides and Tutorials
 
