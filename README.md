@@ -38,6 +38,8 @@ Firas Khader, Gustav Mueller-Franzes, Soroosh Tayebi Arasteh, Tianyu Han, Christ
 
 
 ### Data augemntation
+1. [**EMIT-Diff: Enhancing Medical Image Segmentation via Text-Guided Diffusion Model.**](https://arxiv.org/abs/2310.12868) Zheyuan Zhang, Lanhong Yao, Bin Wang, Debesh Jha, Elif Keles, Alpay Medetalibeyoglu, Ulas Bagci (2023).
+
 ## Dataset Resources and Preprocessing\Training Techniques
 ## Implementation Guides and Tutorials
 
