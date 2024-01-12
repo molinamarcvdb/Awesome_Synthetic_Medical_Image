@@ -18,6 +18,9 @@ Bobby Azad, Reza Azad, Sania Eskandari, Afshin Bozorgpour, Amirhossein Kazerouni
    Li Sun, Junxiang Chen, Yanwu Xu, Mingming Gong, Ke Yu, Kayhan Batmanghelich  
    *IEEE Journal of Biomedical and Health Informatics, Volume: 26, Issue: 8*  
    Publisher: IEEE [[**GitHub**]](https://github.com/batmanlab/HA-GAN/tree/master)
+2. [**GANs for Medical Image Synthesis: An Empirical Study.**](https://www.mdpi.com/2313-433X/9/3/69)
+   Skandarani, Y., Jodoin, P.-M., & Lalande, A. (2023).  *J. Imaging*, 9(3), 69. University of Bourgogne Franche-Comte, University of Sherbrooke, University Hospital of Dijon. [DOI](https://doi.org/10.3390/jimaging9030069).
+
 
 ### Diffusion Models
 ### Autorregresive Transformer
