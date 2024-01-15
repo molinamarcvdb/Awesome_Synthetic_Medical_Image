@@ -10,7 +10,7 @@ Each category in this repository is meticulously curated, guiding you through th
 
 ## Foundational Concepts and Theoretical Background
 1. [**Foundational Models in Medical Imaging: A Comprehensive Survey and Future Vision**](https://arxiv.org/abs/2310.18689)  Bobby Azad, Reza Azad, Sania Eskandari, Afshin Bozorgpour, Amirhossein Kazerouni, Islem Rekik, Dorit Merhof (2023)
-2. [**A Comprehensive Survey of Deep Learning Research on Medical Image Analysis with Focus on Transfer Learning.**]([https://example-link-to-paper.com](https://www.sciencedirect.com/science/article/abs/pii/S0899707122002856)) SEMA ATASEVER, NUH AZGINOGLU, DUYGU SINANC TERZI, RAMAZAN TERZI (2022).
+2. [**A Comprehensive Survey of Deep Learning Research on Medical Image Analysis with Focus on Transfer Learning.**](https://www.sciencedirect.com/science/article/abs/pii/S0899707122002856) SEMA ATASEVER, NUH AZGINOGLU, DUYGU SINANC TERZI, RAMAZAN TERZI (2022).
 
 
 
