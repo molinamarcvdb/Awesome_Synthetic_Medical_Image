@@ -22,6 +22,9 @@ Each category in this repository is meticulously curated, guiding you through th
 4. [**Medical Image Synthesis for Data Augmentation and Anonymization using Generative Adversarial Networks.**](https://arxiv.org/abs/1807.10225)
    Shin, H.-C., Tenenholtz, N. A., Rogers, J. K., Schwarz, C. G., Senjem, M. L., Gunter, J. L., Andriole, K., & Michalski, M. (2018).
 5. [StudioGAN: A Taxonomy and Benchmark of GANs for Image Synthesis](https://arxiv.org/abs/2206.09479) Minguk Kang, Joonghyuk Shin, Jaesik Park (2022)
+6. [3D cGAN based cross-modality MR image synthesis for brain tumor segmentation](https://ieeexplore.ieee.org/abstract/document/8363653)  
+   Biting Yu, Luping Zhou, Lei Wang, Jurgen Fripp, Pierrick Bourgeat , IEEE
+
 
 ### Diffusion Models
 1. [**Diffusion Models in Medical Imaging: A Comprehensive Survey.**](https://www.sciencedirect.com/science/article/abs/pii/S1361841523001068)
