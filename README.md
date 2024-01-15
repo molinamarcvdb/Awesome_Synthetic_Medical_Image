@@ -21,10 +21,8 @@ Each category in this repository is meticulously curated, guiding you through th
    Skandarani, Y., Jodoin, P.-M., & Lalande, A. (2023). *J. Imaging*, 9(3), 69. University of Bourgogne Franche-Comte, University of Sherbrooke, University Hospital of Dijon.
 4. [**Medical Image Synthesis for Data Augmentation and Anonymization using Generative Adversarial Networks.**](https://arxiv.org/abs/1807.10225)
    Shin, H.-C., Tenenholtz, N. A., Rogers, J. K., Schwarz, C. G., Senjem, M. L., Gunter, J. L., Andriole, K., & Michalski, M. (2018).
-5. [**StudioGAN: A Taxonomy and Benchmark of GANs for Image Synthesis**](https://arxiv.org/abs/2206.09479)
-   Minguk Kang, Joonghyuk Shin, Jaesik Park (2022)
-7. [**3D cGAN based cross-modality MR image synthesis for brain tumor segmentation**](https://ieeexplore.ieee.org/abstract/document/8363653)  
-   Biting Yu, Luping Zhou, Lei Wang, Jurgen Fripp, Pierrick Bourgeat , IEEE
+5. [**StudioGAN: A Taxonomy and Benchmark of GANs for Image Synthesis**](https://arxiv.org/abs/2206.09479) Minguk Kang, Joonghyuk Shin, Jaesik Park (2022)
+7. [**3D cGAN based cross-modality MR image synthesis for brain tumor segmentation**](https://ieeexplore.ieee.org/abstract/document/8363653) Biting Yu, Luping Zhou, Lei Wang, Jurgen Fripp, Pierrick Bourgeat , IEEE
 
 
 ### Diffusion Models
