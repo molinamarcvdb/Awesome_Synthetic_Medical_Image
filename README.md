@@ -1,4 +1,4 @@
-# Awesome_Synthetic_Medical_Image
+# Awesome Synthetic Medical Image
 
 Welcome to the Synthetic Medical Imaging Repository – a comprehensive resource hub dedicated to the fascinating and rapidly evolving field of synthetic medical imaging. This repository is a side project of my master's thesis and aims to serve as a one-stop destination for researchers, developers, and enthusiasts in the field.
 
