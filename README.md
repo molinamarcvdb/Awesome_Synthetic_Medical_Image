@@ -26,23 +26,15 @@ Each category in this repository is meticulously curated, guiding you through th
 
 
 ### Diffusion Models
-1. [**Diffusion Models in Medical Imaging: A Comprehensive Survey.**](https://www.sciencedirect.com/science/article/abs/pii/S1361841523001068)
-   Kazerouni, A., Aghdam, E. K., Heidari, M., Azad, R., Fayyaz, M., Hacihaliloglu, I., & Merhof, D. (2023).
-2. [Medical Diffusion: Denoising Diffusion Probabilistic Models for 3D Medical Image Generation](https://www.nature.com/articles/s41598-023-34341-2)
-Firas Khader, Gustav Mueller-Franzes, Soroosh Tayebi Arasteh, Tianyu Han, Christoph Haarburger, Maximilian Schulze-Hagen, Philipp Schad, Sandy Engelhardt, Bettina Baessler, Sebastian Foersch, Johannes Stegmaier, Christiane Kuhl, Sven Nebelung, Jakob Nikolas Kather, Daniel Truhn (2022). [Github](https://github.com/FirasGit/medicaldiffusion)
+1. [**Diffusion Models in Medical Imaging: A Comprehensive Survey.**](https://www.sciencedirect.com/science/article/abs/pii/S1361841523001068) Kazerouni, A., Aghdam, E. K., Heidari, M., Azad, R., Fayyaz, M., Hacihaliloglu, I., & Merhof, D. (2023).
+2. [Medical Diffusion: Denoising Diffusion Probabilistic Models for 3D Medical Image Generation](https://www.nature.com/articles/s41598-023-34341-2) Firas Khader, Gustav Mueller-Franzes, Soroosh Tayebi Arasteh, Tianyu Han, Christoph Haarburger, Maximilian Schulze-Hagen, Philipp Schad, Sandy Engelhardt, Bettina Baessler, Sebastian Foersch, Johannes Stegmaier, Christiane Kuhl, Sven Nebelung, Jakob Nikolas Kather, Daniel Truhn (2022). [Github](https://github.com/FirasGit/medicaldiffusion)
+3. [**Investigating Data Memorization in 3D Latent Diffusion Models for Medical Image Synthesis.**](https://arxiv.org/abs/2307.01148) Salman Ul Hassan Dar, Arman Ghanaat, Jannik Kahmann, Isabelle Ayx, Theano Papavassiliu, Stefan O. Schoenberg, Sandy Engelhardt (2023).
+4. [**Conversion of the Mayo LDCT Data to Synthetic Equivalent through the Diffusion Model for Training Denoising Networks with a Theoretically Perfect Privacy.**](https://arxiv.org/abs/2301.06604) Yongyi Shi, Ge Wang (2023).
+5. [**EMIT-Diff: Enhancing Medical Image Segmentation via Text-Guided Diffusion Model.**](https://arxiv.org/abs/2310.12868) Zheyuan Zhang, Lanhong Yao, Bin Wang, Debesh Jha, Elif Keles, Alpay Medetalibeyoglu, Ulas Bagci (2023).
 ### Comparisons
 1. [**Diffusion Probabilistic Models beat GANs on Medical Images**](https://arxiv.org/abs/2212.07501) Gustav Müller-Franzes, Jan Moritz Niehues, Firas Khader, Soroosh Tayebi Arasteh, Christoph Haarburger, Christiane Kuhl, Tianci Wang, Tianyu Han, Sven Nebelung, Jakob Nikolas Kather, Daniel Truhn [14th Dec., 2022] [arXiv, 2022]
 2. [**Beware of Diffusion Models for Synthesizing Medical Images -- A Comparison with GANs in Terms of Memorizing Brain MRI and Chest X-Ray Images.**](https://arxiv.org/abs/2305.07644) Muhammad Usman Akbar, Wuhao Wang, Anders Eklund (2023).
 
-## Apllications
-### Privacy
-1. [**Beware of Diffusion Models for Synthesizing Medical Images -- A Comparison with GANs in Terms of Memorizing Brain MRI and Chest X-Ray Images.**](https://arxiv.org/abs/2305.07644) Muhammad Usman Akbar, Wuhao Wang, Anders Eklund (2023).
-2. [**Investigating Data Memorization in 3D Latent Diffusion Models for Medical Image Synthesis.**](https://arxiv.org/abs/2307.01148) Salman Ul Hassan Dar, Arman Ghanaat, Jannik Kahmann, Isabelle Ayx, Theano Papavassiliu, Stefan O. Schoenberg, Sandy Engelhardt (2023).
-3. [**Conversion of the Mayo LDCT Data to Synthetic Equivalent through the Diffusion Model for Training Denoising Networks with a Theoretically Perfect Privacy.**](https://arxiv.org/abs/2301.06604) Yongyi Shi, Ge Wang (2023).
-
-
-### Data augemntation
-1. [**EMIT-Diff: Enhancing Medical Image Segmentation via Text-Guided Diffusion Model.**](https://arxiv.org/abs/2310.12868) Zheyuan Zhang, Lanhong Yao, Bin Wang, Debesh Jha, Elif Keles, Alpay Medetalibeyoglu, Ulas Bagci (2023).
 
 ## Dataset Resources and Preprocessing\Training Techniques
 ## Implementation Guides and Tutorials
