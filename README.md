@@ -44,6 +44,15 @@ Each category in this repository is meticulously curated, guiding you through th
 1. [**Diffusion Probabilistic Models beat GANs on Medical Images**](https://arxiv.org/abs/2212.07501) Gustav Müller-Franzes, Jan Moritz Niehues, Firas Khader, Soroosh Tayebi Arasteh, Christoph Haarburger, Christiane Kuhl, Tianci Wang, Tianyu Han, Sven Nebelung, Jakob Nikolas Kather, Daniel Truhn [14th Dec., 2022] [arXiv, 2022]
 2. [**Beware of Diffusion Models for Synthesizing Medical Images -- A Comparison with GANs in Terms of Memorizing Brain MRI and Chest X-Ray Images.**](https://arxiv.org/abs/2305.07644) Muhammad Usman Akbar, Wuhao Wang, Anders Eklund (2023).
 
+## Evaluation metrics
+1. [**Frechet Inception Distance (FID)**]: [**GANs Trained by a Two Time-Scale Update Rule Converge to a Local Nash Equilibrium**](https://arxiv.org/abs/1706.08500) Martin Heusel, Hubert Ramsauer, Thomas Unterthiner, Bernhard Nessler, Sepp Hochreiter. Submitted on 26 Jun 2017 (v1), last revised 12 Jan 2018 (this version, v6).
+2. [**Maximum Mean Discrepancy (MMD)**]: [**A kernel two-sample test**](https://www.jmlr.org/papers/volume13/gretton12a/gretton12a.pdf) Gretton, A., et al. (2012). The Journal of Machine Learning Research, 13(1), pp.723-773.
+3. [**Structural Similarity Index Measure (SSIM)**]: [**Image quality assessment: from error visibility to structural similarity**](https://ieeexplore.ieee.org/document/1284395) Wang, Zhou, et al. (2004). IEEE Transactions on Image Processing, 13(4), pp.600-612.
+4. [**Learned Perceptual Image Patch Similarity (LPIPS)**] : [**The Unreasonable Effectiveness of Deep Features as a Perceptual Metric**](https://arxiv.org/pdf/1801.03924.pdf) Richard Zhang, Phillip Isola, Alexei A. Efros (UC Berkeley), Eli Shechtman, Oliver Wang (Adobe Research).
+5. [**Peak Signal-to-Noise Ratio**](https://en.wikipedia.org/wiki/Peak_signal-to-noise_ratio) Wikipedia, Wikimedia Foundation, 22 Aug. 2022.\
+6. [**A Review of the Image Quality Metrics used in Image Generative Models**](https://blog.paperspace.com/review-metrics-image-synthesis-models/) By Tabitha Oanda, a year ago. 10 min read.
+
+
 
 ## Open-Source Medical imaging datasets
 1. [**The HAM10000 dataset, a large collection of multi-source dermatoscopic images of common pigmented skin lesions**](https://arxiv.org/abs/1803.10417) Philipp Tschandl, Cliff Rosendahl, Harald Kittler.
