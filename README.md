@@ -11,8 +11,8 @@ Each category in this repository is meticulously curated, guiding you through th
 ## Foundational Concepts and Theoretical Background
 1. [**Foundational Models in Medical Imaging: A Comprehensive Survey and Future Vision**](https://arxiv.org/abs/2310.18689)  Bobby Azad, Reza Azad, Sania Eskandari, Afshin Bozorgpour, Amirhossein Kazerouni, Islem Rekik, Dorit Merhof (2023)
 2. [**A Comprehensive Survey of Deep Learning Research on Medical Image Analysis with Focus on Transfer Learning.**](https://www.sciencedirect.com/science/article/abs/pii/S0899707122002856) SEMA ATASEVER, NUH AZGINOGLU, DUYGU SINANC TERZI, RAMAZAN TERZI (2022).
-
-
+3. [**Generative Adversarial Networks**](https://arxiv.org/abs/1406.2661) Ian J. Goodfellow, Jean Pouget-Abadie, Mehdi Mirza, Bing Xu, David Warde-Farley, Sherjil Ozair, Aaron Courville, Yoshua Bengio. Submitted on 10 Jun 2014.
+4. [**Denoising Diffusion Probabilistic Models**](https://arxiv.org/abs/2006.11239) Jonathan Ho, Ajay Jain, Pieter Abbeel. Submitted on 19 Jun 2020 (v1), last revised 16 Dec 2020 (this version, v2).
 
 ## Models
 ### GANs
@@ -23,7 +23,6 @@ Each category in this repository is meticulously curated, guiding you through th
    Shin, H.-C., Tenenholtz, N. A., Rogers, J. K., Schwarz, C. G., Senjem, M. L., Gunter, J. L., Andriole, K., & Michalski, M. (2018).
 5. [**StudioGAN: A Taxonomy and Benchmark of GANs for Image Synthesis**](https://arxiv.org/abs/2206.09479) Minguk Kang, Joonghyuk Shin, Jaesik Park (2022)
 7. [**3D cGAN based cross-modality MR image synthesis for brain tumor segmentation**](https://ieeexplore.ieee.org/abstract/document/8363653) Biting Yu, Luping Zhou, Lei Wang, Jurgen Fripp, Pierrick Bourgeat , IEEE
-
 
 ### Diffusion Models
 1. [**Diffusion Models in Medical Imaging: A Comprehensive Survey.**](https://www.sciencedirect.com/science/article/abs/pii/S1361841523001068) Kazerouni, A., Aghdam, E. K., Heidari, M., Azad, R., Fayyaz, M., Hacihaliloglu, I., & Merhof, D. (2023).
