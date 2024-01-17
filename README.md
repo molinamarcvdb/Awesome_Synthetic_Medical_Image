@@ -39,6 +39,7 @@ Each category in this repository is meticulously curated, guiding you through th
 
 
 ## Open-Source Medical imaging datasets
+1. [**The HAM10000 dataset, a large collection of multi-source dermatoscopic images of common pigmented skin lesions**](https://arxiv.org/abs/1803.10417) Philipp Tschandl, Cliff Rosendahl, Harald Kittler.
 
 ## Implementation Guides and Tutorials
 
