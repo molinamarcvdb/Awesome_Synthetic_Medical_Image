@@ -36,7 +36,6 @@ Each category in this repository is meticulously curated, guiding you through th
 6. [**EMIT-Diff: Enhancing Medical Image Segmentation via Text-Guided Diffusion Model.**](https://arxiv.org/abs/2310.12868) Zheyuan Zhang, Lanhong Yao, Bin Wang, Debesh Jha, Elif Keles, Alpay Medetalibeyoglu, Ulas Bagci (2023).
 7. [**Synthetic Augmentation with Large-scale Unconditional Pre-training**](https://arxiv.org/abs/2308.04020) Jiarong Ye, Haomiao Ni, Peng Jin, Sharon X. Huang, Yuan Xue. Submitted on 8 Aug 2023.
 
-### Variational Autoencoders
 ### Autorregresion (Transformers)
 1. [**Autoregressive Image Generation using Residual Quantization**](https://arxiv.org/abs/2203.01941) Doyup Lee, Chiheon Kim, Saehoon Kim, Minsu Cho, Wook-Shin Han. Submitted on 3 Mar 2022 (v1), last revised 9 Mar 2022 (this version, v2).
 
