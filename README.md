@@ -18,12 +18,13 @@ Each category in this repository is meticulously curated, guiding you through th
 ## Models
 ### GANs
 1. [**Generative Adversarial Networks**](https://arxiv.org/abs/1406.2661) Ian J. Goodfellow, Jean Pouget-Abadie, Mehdi Mirza, Bing Xu, David Warde-Farley, Sherjil Ozair, Aaron Courville, Yoshua Bengio. Submitted on 10 Jun 2014.
-2. [**Hierarchical Amortized GAN for 3D High Resolution Medical Image Synthesis**](https://ieeexplore.ieee.org/abstract/document/9770375) Li Sun, Junxiang Chen, Yanwu Xu, Mingming Gong, Ke Yu, Kayhan Batmanghelich *IEEE Journal of Biomedical and Health Informatics, Volume: 26, Issue: 8*  Publisher: IEEE [[**GitHub**]](https://github.com/batmanlab/HA-GAN/tree/master)
-3. [**GANs for Medical Image Synthesis: An Empirical Study.**](https://www.mdpi.com/2313-433X/9/3/69)
+2. [**High-Resolution Image Synthesis and Semantic Manipulation with Conditional GANs**](https://arxiv.org/abs/1711.11585) Ting-Chun Wang, Ming-Yu Liu, Jun-Yan Zhu, Andrew Tao, Jan Kautz, Bryan Catanzaro. Submitted on 30 Nov 2017 (v1), last revised 20 Aug 2018 (this version, v2).
+3. [**Hierarchical Amortized GAN for 3D High Resolution Medical Image Synthesis**](https://ieeexplore.ieee.org/abstract/document/9770375) Li Sun, Junxiang Chen, Yanwu Xu, Mingming Gong, Ke Yu, Kayhan Batmanghelich *IEEE Journal of Biomedical and Health Informatics, Volume: 26, Issue: 8*  Publisher: IEEE [[**GitHub**]](https://github.com/batmanlab/HA-GAN/tree/master)
+4. [**GANs for Medical Image Synthesis: An Empirical Study.**](https://www.mdpi.com/2313-433X/9/3/69)
    Skandarani, Y., Jodoin, P.-M., & Lalande, A. (2023). *J. Imaging*, 9(3), 69. University of Bourgogne Franche-Comte, University of Sherbrooke, University Hospital of Dijon.
-4. [**Medical Image Synthesis for Data Augmentation and Anonymization using Generative Adversarial Networks.**](https://arxiv.org/abs/1807.10225)
+5. [**Medical Image Synthesis for Data Augmentation and Anonymization using Generative Adversarial Networks.**](https://arxiv.org/abs/1807.10225)
    Shin, H.-C., Tenenholtz, N. A., Rogers, J. K., Schwarz, C. G., Senjem, M. L., Gunter, J. L., Andriole, K., & Michalski, M. (2018).
-5. [**StudioGAN: A Taxonomy and Benchmark of GANs for Image Synthesis**](https://arxiv.org/abs/2206.09479) Minguk Kang, Joonghyuk Shin, Jaesik Park (2022)
+6. [**StudioGAN: A Taxonomy and Benchmark of GANs for Image Synthesis**](https://arxiv.org/abs/2206.09479) Minguk Kang, Joonghyuk Shin, Jaesik Park (2022)
 7. [**3D cGAN based cross-modality MR image synthesis for brain tumor segmentation**](https://ieeexplore.ieee.org/abstract/document/8363653) Biting Yu, Luping Zhou, Lei Wang, Jurgen Fripp, Pierrick Bourgeat , IEEE
 
 ### Diffusion Models
@@ -36,6 +37,8 @@ Each category in this repository is meticulously curated, guiding you through th
 7. [**Synthetic Augmentation with Large-scale Unconditional Pre-training**](https://arxiv.org/abs/2308.04020) Jiarong Ye, Haomiao Ni, Peng Jin, Sharon X. Huang, Yuan Xue. Submitted on 8 Aug 2023.
 
 ### Variational Autoencoders
+### Autorregresion (Transformers)
+1. [**Autoregressive Image Generation using Residual Quantization**](https://arxiv.org/abs/2203.01941) Doyup Lee, Chiheon Kim, Saehoon Kim, Minsu Cho, Wook-Shin Han. Submitted on 3 Mar 2022 (v1), last revised 9 Mar 2022 (this version, v2).
 
 ### Comparisons
 1. [**Diffusion Probabilistic Models beat GANs on Medical Images**](https://arxiv.org/abs/2212.07501) Gustav Müller-Franzes, Jan Moritz Niehues, Firas Khader, Soroosh Tayebi Arasteh, Christoph Haarburger, Christiane Kuhl, Tianci Wang, Tianyu Han, Sven Nebelung, Jakob Nikolas Kather, Daniel Truhn [14th Dec., 2022] [arXiv, 2022]
