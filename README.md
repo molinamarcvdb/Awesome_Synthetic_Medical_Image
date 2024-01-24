@@ -39,7 +39,7 @@ Each category in this repository is meticulously curated, guiding you through th
 
 ### Autorregresion (Transformers)
 1. [**Autoregressive Image Generation using Residual Quantization**](https://arxiv.org/abs/2203.01941) Doyup Lee, Chiheon Kim, Saehoon Kim, Minsu Cho, Wook-Shin Han. Submitted on 3 Mar 2022 (v1), last revised 9 Mar 2022 (this version, v2).
-2. [Morphology-preserving Autoregressive 3D Generative Modelling of the Brain](https://arxiv.org/abs/2209.03177) by Petru-Daniel Tudosiu, Walter Hugo Lopez Pinaya, Mark S. Graham, Pedro Borges, Virginia Fernandez, Dai Yang, Jeremy Appleyard, Guido Novati, Disha Mehra, Mike Vella, Parashkev Nachev, Sebastien Ourselin, Jorge Cardoso. Submitted on 7 Sep 2022.
+2. [Morphology-preserving Autoregressive 3D Generative Modelling of the Brain](https://arxiv.org/abs/2209.03177) by Petru-Daniel Tudosiu, Walter Hugo Lopez Pinaya, Mark S. Graham, Pedro Borges, Virginia Fernandez, Dai Yang, Jeremy Appleyard, Guido Novati, Disha Mehra, Mike Vella, Parashkev Nachev, Sebastien Ourselin, Jorge Cardoso. Submitted on 7 Sep 2022. [**Code**](https://github.com/AmigoLab/SynthAnatomy)
 
 ### Comparisons
 1. [**Diffusion Probabilistic Models beat GANs on Medical Images**](https://arxiv.org/abs/2212.07501) Gustav Müller-Franzes, Jan Moritz Niehues, Firas Khader, Soroosh Tayebi Arasteh, Christoph Haarburger, Christiane Kuhl, Tianci Wang, Tianyu Han, Sven Nebelung, Jakob Nikolas Kather, Daniel Truhn [14th Dec., 2022] [arXiv, 2022]
