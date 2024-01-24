@@ -53,7 +53,8 @@ Each category in this repository is meticulously curated, guiding you through th
 5. [**Peak Signal-to-Noise Ratio**](https://en.wikipedia.org/wiki/Peak_signal-to-noise_ratio) Wikipedia, Wikimedia Foundation, 22 Aug. 2022.\
 6. [**A Review of the Image Quality Metrics used in Image Generative Models**](https://blog.paperspace.com/review-metrics-image-synthesis-models/) By Tabitha Oanda, a year ago. 10 min read.
 
-
+## Conditional generation
+1. [Conditional Diffusion Models for Semantic 3D Medical Image Synthesis](https://arxiv.org/abs/2305.18453) by Zolnamar Dorjsembe, Hsing-Kuo Pao, Sodtavilan Odonchimed, Furen Xiao. Submitted on 29 May 2023, last revised 31 Jul 2023.
 
 ## Open-Source Medical imaging datasets
 1. [**The HAM10000 dataset, a large collection of multi-source dermatoscopic images of common pigmented skin lesions**](https://arxiv.org/abs/1803.10417) Philipp Tschandl, Cliff Rosendahl, Harald Kittler.
