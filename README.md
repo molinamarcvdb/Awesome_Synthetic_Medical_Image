@@ -56,6 +56,7 @@ Each category in this repository is meticulously curated, guiding you through th
 ## Conditional generation
 1. [Conditional Diffusion Models for Semantic 3D Medical Image Synthesis](https://arxiv.org/abs/2305.18453) by Zolnamar Dorjsembe, Hsing-Kuo Pao, Sodtavilan Odonchimed, Furen Xiao. Submitted on 29 May 2023, last revised 31 Jul 2023.
 2. [Med-cDiff: Conditional Medical Image Generation with Diffusion Models](https://doi.org/10.3390/bioengineering10111258) by Alex Ling Yu Hung, Kai Zhao, Haoxin Zheng, Ran Yan, Steven S. Raman, Demetri Terzopoulos, and Kyunghyun Sung. Bioengineering 2023, 10(11), 1258.
+3. [Classifier-Free Diffusion Guidance](https://arxiv.org/abs/2207.12598) by Jonathan Ho, Tim Salimans. Submitted on 26 Jul 2022.
 
 ## Open-Source Medical imaging datasets
 1. [**The HAM10000 dataset, a large collection of multi-source dermatoscopic images of common pigmented skin lesions**](https://arxiv.org/abs/1803.10417) Philipp Tschandl, Cliff Rosendahl, Harald Kittler.
