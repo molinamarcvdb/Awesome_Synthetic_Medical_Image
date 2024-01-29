@@ -13,8 +13,11 @@ Each category in this repository is meticulously curated, guiding you through th
 2. [**A Comprehensive Survey of Deep Learning Research on Medical Image Analysis with Focus on Transfer Learning.**](https://www.sciencedirect.com/science/article/abs/pii/S0899707122002856) SEMA ATASEVER, NUH AZGINOGLU, DUYGU SINANC TERZI, RAMAZAN TERZI (2022).
 3. [**Overcoming barriers to data sharing with medical image generation: a comprehensive evaluation**](https://www.nature.com/articles/s41746-021-00507-3) August DuMont Schütte, Jürgen Hetzel, Sergios Gatidis, Tobias Hepp, Benedikt Dietz, Stefan Bauer & Patrick Schwab. npj Digital Medicine volume 4, Article number: 141 (2021).
 4. [**Federated learning and differential privacy for medical image analysis**](https://www.nature.com/articles/s41598-022-05539-7) Mohammed Adnan, Shivam Kalra, Jesse C. Cresswell, Graham W. Taylor & Hamid R. Tizhoosh. Scientific Reports volume 12, Article number: 1953 (2022).
-5. [**Multimodal Image Synthesis and Editing: The Generative AI Era**](https://arxiv.org/abs/2112.13592)
-Fangneng Zhan, Yingchen Yu, Rongliang Wu, Jiahui Zhang, Shijian Lu, Lingjie Liu, Adam Kortylewski, Christian Theobalt, Eric Xing  
+5. [**Multimodal Image Synthesis and Editing: The Generative AI Era**](https://arxiv.org/abs/2112.13592) Fangneng Zhan, Yingchen Yu, Rongliang Wu, Jiahui Zhang, Shijian Lu, Lingjie Liu, Adam Kortylewski, Christian Theobalt, Eric Xing
+6. [**A Survey on Deep Generative 3D-aware Image Synthesis**](https://doi.org/10.1145/3626193) Weihao Xia, Jing-Hao Xue  
+ACM Computing Surveys, Volume 56, Issue 4, November 2023, Article No.: 90, pp 1–34  
+
+
 
 
 
