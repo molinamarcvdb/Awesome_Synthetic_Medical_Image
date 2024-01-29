@@ -43,6 +43,7 @@ ACM Computing Surveys, Volume 56, Issue 4, November 2023, Article No.: 90, pp 1â
 6. [**Conversion of the Mayo LDCT Data to Synthetic Equivalent through the Diffusion Model for Training Denoising Networks with a Theoretically Perfect Privacy.**](https://arxiv.org/abs/2301.06604) Yongyi Shi, Ge Wang (2023).
 7. [**EMIT-Diff: Enhancing Medical Image Segmentation via Text-Guided Diffusion Model.**](https://arxiv.org/abs/2310.12868) Zheyuan Zhang, Lanhong Yao, Bin Wang, Debesh Jha, Elif Keles, Alpay Medetalibeyoglu, Ulas Bagci (2023).
 8. [**Synthetic Augmentation with Large-scale Unconditional Pre-training**](https://arxiv.org/abs/2308.04020) Jiarong Ye, Haomiao Ni, Peng Jin, Sharon X. Huang, Yuan Xue. Submitted on 8 Aug 2023.
+9. [**A Survey of Diffusion Based Image Generation Models: Issues and Their Solutions**](https://arxiv.org/abs/2308.13142) Tianyi Zhang, Zheng Wang, Jing Huang, Mohiuddin Muhammad Tasnim, Wei Shi Submitted on 25 Aug 2023
 
 ### Autorregresion (Transformers)
 1. [**Autoregressive Image Generation using Residual Quantization**](https://arxiv.org/abs/2203.01941) Doyup Lee, Chiheon Kim, Saehoon Kim, Minsu Cho, Wook-Shin Han. Submitted on 3 Mar 2022 (v1), last revised 9 Mar 2022 (this version, v2).
