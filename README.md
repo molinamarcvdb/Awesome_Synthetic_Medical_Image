@@ -17,6 +17,8 @@ Each category in this repository is meticulously curated, guiding you through th
 6. [**A Survey on Deep Generative 3D-aware Image Synthesis**](https://doi.org/10.1145/3626193) Weihao Xia, Jing-Hao Xue ACM Computing Surveys, Volume 56, Issue 4, November 2023, Article No.: 90, pp 1–34
 7. [**RenAIssance: A Survey into AI Text-to-Image Generation in the Era of Large Model**](https://arxiv.org/abs/2309.00810) Fengxiang Bie, Yibo Yang, Zhongzhu Zhou, Adam Ghanem, Minjia Zhang, Zhewei Yao, Xiaoxia Wu, Connor Holmes, Pareesa Golnari, David A. Clifton, Yuxiong He, Dacheng Tao, Shuaiwen Leon Song Submitted on 2 Sep 2023
 8. [**Image Generation: A Review**](https://link.springer.com/article/10.1007/s11063-022-10777-x) Mohamed Elasri, Omar Elharrouss, Somaya Al-Maadeed & Hamid Tairi Volume 54, pages 4609–4646, (2022)
+9. [**Generative AI for medical imaging analysis and applications**](https://doi.org/10.2217/fmai-2023-0004) Tanmai Sree Musalamadugu and Hemachandran Kannan, *Preprint*, December 2023.
+
 
 
 
