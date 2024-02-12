@@ -50,7 +50,7 @@ Each category in this repository is meticulously curated, guiding you through th
 ### Autorregresion (Transformers)
 1. [**Autoregressive Image Generation using Residual Quantization**](https://arxiv.org/abs/2203.01941) Doyup Lee, Chiheon Kim, Saehoon Kim, Minsu Cho, Wook-Shin Han. Submitted on 3 Mar 2022 (v1), last revised 9 Mar 2022 (this version, v2).
 2. [Morphology-preserving Autoregressive 3D Generative Modelling of the Brain](https://arxiv.org/abs/2209.03177) by Petru-Daniel Tudosiu, Walter Hugo Lopez Pinaya, Mark S. Graham, Pedro Borges, Virginia Fernandez, Dai Yang, Jeremy Appleyard, Guido Novati, Disha Mehra, Mike Vella, Parashkev Nachev, Sebastien Ourselin, Jorge Cardoso. Submitted on 7 Sep 2022. [**Code**](https://github.com/AmigoLab/SynthAnatomy)
-
+3. [Scaling Autoregressive Models for Content-Rich Text-to-Image Generation](https://openreview.net/forum?id=AFDcYJKhND) by Jiahui Yu, Yuanzhong Xu, Jing Yu Koh, Thang Luong, Gunjan Baid, Zirui Wang, Vijay Vasudevan, Alexander Ku, Yinfei Yang, Burcu Karagol Ayan, Ben Hutchinson, Wei Han, Zarana Parekh, Xin Li, Han Zhang, Jason Baldridge, Yonghui Wu. Published: 07 Nov 2022 
 ### Comparisons
 1. [**Diffusion Probabilistic Models beat GANs on Medical Images**](https://arxiv.org/abs/2212.07501) Gustav Müller-Franzes, Jan Moritz Niehues, Firas Khader, Soroosh Tayebi Arasteh, Christoph Haarburger, Christiane Kuhl, Tianci Wang, Tianyu Han, Sven Nebelung, Jakob Nikolas Kather, Daniel Truhn [14th Dec., 2022] [arXiv, 2022]
 2. [**Beware of Diffusion Models for Synthesizing Medical Images -- A Comparison with GANs in Terms of Memorizing Brain MRI and Chest X-Ray Images.**](https://arxiv.org/abs/2305.07644) Muhammad Usman Akbar, Wuhao Wang, Anders Eklund (2023).
