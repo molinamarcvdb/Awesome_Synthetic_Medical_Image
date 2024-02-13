@@ -62,7 +62,8 @@ Each category in this repository is meticulously curated, guiding you through th
 3. [**Structural Similarity Index Measure (SSIM)**]: [**Image quality assessment: from error visibility to structural similarity**](https://ieeexplore.ieee.org/document/1284395) Wang, Zhou, et al. (2004). IEEE Transactions on Image Processing, 13(4), pp.600-612.
 4. [**Learned Perceptual Image Patch Similarity (LPIPS)**] : [**The Unreasonable Effectiveness of Deep Features as a Perceptual Metric**](https://arxiv.org/pdf/1801.03924.pdf) Richard Zhang, Phillip Isola, Alexei A. Efros (UC Berkeley), Eli Shechtman, Oliver Wang (Adobe Research).
 5. [**Peak Signal-to-Noise Ratio**](https://en.wikipedia.org/wiki/Peak_signal-to-noise_ratio) Wikipedia, Wikimedia Foundation, 22 Aug. 2022.\
-6. [**A Review of the Image Quality Metrics used in Image Generative Models**](https://blog.paperspace.com/review-metrics-image-synthesis-models/) By Tabitha Oanda, a year ago. 10 min read.
+6. [**A Review of the Image Quality Metrics used in Image Generative Models**](https://blog.paperspace.com/review-metrics-image-synthesis-models/) By Tabitha Oanda, a year ago. 
+7. [Effectively Unbiased FID and Inception Score and where to find them](https://arxiv.org/abs/1911.07023) by Min Jin Chong, David Forsyth. Submitted on 16 Nov 2019 (v1), last revised 15 Jun 2020 (this version, v3).
 
 ## Conditional generation
 1. [Conditional Diffusion Models for Semantic 3D Medical Image Synthesis](https://arxiv.org/abs/2305.18453) by Zolnamar Dorjsembe, Hsing-Kuo Pao, Sodtavilan Odonchimed, Furen Xiao. Submitted on 29 May 2023, last revised 31 Jul 2023.
